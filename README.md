@@ -3,7 +3,6 @@
 ## Education 
 ### Educational Background
 Bachelor of Commerce, Specialist in Finance and Economics (Sep. 2017 - Present)
-
 University of Toronto, Toronto, ON                                                                                                               
 * Major in Economics and Minor in Statistics with cGPA 3.92/4.00 
 * Honors: current Dean’s List Scholar, 2017-2020
