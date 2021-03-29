@@ -1,5 +1,11 @@
 # CV for Jessica Zhang 
 
+##Summary of Qualifications
+* Driven and dependable young professional with a solid understanding of financial products and services, equity sales, and trading; detailed knowledge of economic market trends and analysis.
+* Strong analytical and quantitative skills with ability to analyze and interpret market research and financial data; experience in preparing financial and valuations models in Excel. 
+* Dedicated to collaborating with colleagues and working independently to drive efficiency and productivity; strong interpersonal and communication skills gained from sponsorship coordinator experience.
+* Technical expertise in MS Office/365, R and Python; able to master new business applications or software quickly.
+
 ## Education 
 ### Educational Background
 Bachelor of Commerce, Specialist in Finance and Economics (Sep. 2017 - Present)
