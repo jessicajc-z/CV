@@ -4,7 +4,7 @@
 ### Educational Background
 Bachelor of Commerce, Specialist in Finance and Economics
 University of Toronto, Toronto, ON                                                                                                               
-* #Major in Economics and Minor in Statistics with cGPA 3.92/4.00 
+####*Major in Economics and Minor in Statistics with cGPA 3.92/4.00 
 
 
 
