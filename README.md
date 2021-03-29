@@ -43,6 +43,9 @@ Risk Lab Equity and Risk Management Case Competition (Second Place)
 * Constructed new ETFs to meet the target company’s needs and hedge risks. 
 
 ## Skills and Interests 
+* Programming: Python Programing, R Programing Language, SAS Base Programing for SAS9.
+* Languages: English (Advanced), Mandarin (Native)
+* Current member in Women in Capital Markets
 
 
 
